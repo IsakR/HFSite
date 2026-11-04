@@ -1,0 +1,18 @@
+HANS FAUSKE & SØNN AS — nettsidemal
+
+Filer:
+- index.html: struktur og tekst
+- style.css: layout, farger og responsivt design
+- script.js: mobilmeny, aktiv navigasjon og årstall
+
+Slik åpner du siden:
+1. Pakk ut ZIP-filen.
+2. Åpne index.html i nettleseren.
+3. Internett kreves for Google Fonts og eksterne illustrasjonsbilder.
+
+Før publisering:
+- Kontroller kontaktinformasjonen.
+- Legg inn bedriftens bekreftede e-postadresse i index.html (mailto:-lenken).
+- Bytt ut illustrasjonsbildene med godkjente bilder fra bedriften.
+- Kontroller produkttekster, adresse og telefon med bedriften.
+- Nettsiden er en statisk front-end; skjema/backend er ikke satt opp.
